@@ -37,21 +37,21 @@ flowchart TD
 
 ## Phase 1: HTML Fundamentals (Weeks 1-3)
 
-*   [**Module 1: Introduction to HTML & Web Development**](https://github.com/example/html-intro/#readme)
+*   [**Module 1: Introduction to HTML & Web Development**](https://github.com/ahmadrizal1st/html-intro/#readme)
     *   HTML Overview: History, Purpose, and Role in Web Development
     *   Understanding Web Technologies: HTML, CSS, JavaScript Relationship
     *   Setting Up Development Environment: Text Editors (VS Code), Browsers
     *   Creating Your First HTML Page: Basic Structure and File Naming
     *   Viewing HTML Pages in Web Browsers
 
-*   [**Module 2: HTML Document Structure & Basic Tags**](https://github.com/example/html-structure/#readme)
+*   [**Module 2: HTML Document Structure & Basic Tags**](https://github.com/ahmadrizal1st/html-structure/#readme)
     *   HTML Document Anatomy: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`
     *   Essential Head Elements: `<title>`, `<meta>`, `<link>`, `<style>`
     *   HTML Syntax: Tags, Elements, and Attributes
     *   Comments in HTML: `<!-- Comment -->`
     *   HTML Validation and Standards Compliance
 
-*   [**Module 3: Text Formatting & Content Structure**](https://github.com/example/html-text/#readme)
+*   [**Module 3: Text Formatting & Content Structure**](https://github.com/ahmadrizal1st/html-text/#readme)
     *   Headings: `<h1>` to `<h6>` - Hierarchy and Importance
     *   Paragraphs and Text Blocks: `<p>` Element
     *   Text Formatting: `<strong>`, `<em>`, `<mark>`, `<small>`, `<sup>`, `<sub>`
@@ -59,7 +59,7 @@ flowchart TD
     *   Quotations: `<blockquote>`, `<q>`, `<cite>`
     *   Code and Preformatted Text: `<code>`, `<pre>`
 
-*   [**Module 4: Links & Navigation**](https://github.com/example/html-links/#readme)
+*   [**Module 4: Links & Navigation**](https://github.com/ahmadrizal1st/html-links/#readme)
     *   Anchor Tag: `<a>` with `href` Attribute
     *   Types of Links: Absolute vs. Relative URLs
     *   Internal Page Navigation: Anchor Links with `#`
@@ -67,14 +67,14 @@ flowchart TD
     *   Email and Telephone Links: `mailto:`, `tel:`
     *   Navigation Menus: Unordered Lists with Links
 
-*   [**Module 5: Images & Media Elements**](https://github.com/example/html-media/#readme)
+*   [**Module 5: Images & Media Elements**](https://github.com/ahmadrizal1st/html-media/#readme)
     *   Image Element: `<img>` with `src`, `alt`, `width`, `height` Attributes
     *   Image Formats: JPEG, PNG, GIF, SVG, WebP
     *   Responsive Images: `srcset` and `sizes` Attributes
     *   Figure and Figcaption: `<figure>`, `<figcaption>`
     *   Favicons: Linking with `<link rel="icon">`
 
-*   [**Module 6: Lists & Tables**](https://github.com/example/html-lists-tables/#readme)
+*   [**Module 6: Lists & Tables**](https://github.com/ahmadrizal1st/html-lists-tables/#readme)
     *   Unordered Lists: `<ul>` with `<li>`
     *   Ordered Lists: `<ol>` with `<li>` (Types and Start Attributes)
     *   Description Lists: `<dl>`, `<dt>`, `<dd>`
@@ -86,14 +86,14 @@ flowchart TD
 
 ## Phase 2: Semantic HTML & Forms (Weeks 4-5)
 
-*   [**Module 7: Semantic HTML5 Elements**](https://github.com/example/html-semantic/#readme)
+*   [**Module 7: Semantic HTML5 Elements**](https://github.com/ahmadrizal1st/html-semantic/#readme)
     *   Semantic vs. Non-semantic Elements
     *   Document Structure Elements: `<header>`, `<nav>`, `<main>`, `<footer>`
     *   Content Sectioning: `<section>`, `<article>`, `<aside>`
     *   Text-level Semantics: `<time>`, `<address>`, `<details>`, `<summary>`
     *   Benefits of Semantic HTML: SEO, Accessibility, Maintainability
 
-*   [**Module 8: HTML Forms & User Input**](https://github.com/example/html-forms/#readme)
+*   [**Module 8: HTML Forms & User Input**](https://github.com/ahmadrizal1st/html-forms/#readme)
     *   Form Element: `<form>` with `action`, `method`, `target` Attributes
     *   Input Types: `text`, `password`, `email`, `tel`, `url`, `number`, `date`
     *   Form Controls: `<input>`, `<textarea>`, `<select>`, `<button>`
@@ -101,7 +101,7 @@ flowchart TD
     *   Form Organization: `<fieldset>`, `<legend>`, `<label>`
     *   Form Attributes: `required`, `placeholder`, `pattern`, `maxlength`
 
-*   [**Module 9: Form Validation & Enhancement**](https://github.com/example/html-validation/#readme)
+*   [**Module 9: Form Validation & Enhancement**](https://github.com/ahmadrizal1st/html-validation/#readme)
     *   HTML5 Form Validation: Built-in Validation Features
     *   Input Patterns: Regular Expressions with `pattern` Attribute
     *   Custom Validation Messages
@@ -112,21 +112,21 @@ flowchart TD
 
 ## Phase 3: Advanced HTML5 Features (Weeks 6-7)
 
-*   [**Module 10: HTML5 APIs & Multimedia**](https://github.com/example/html5-apis/#readme)
+*   [**Module 10: HTML5 APIs & Multimedia**](https://github.com/ahmadrizal1st/html5-apis/#readme)
     *   Audio Element: `<audio>` with Multiple Source Formats
     *   Video Element: `<video>` with Controls, Autoplay, and Loop
     *   Canvas Element: `<canvas>` for Dynamic Graphics
     *   SVG Graphics: Inline SVG vs. External Files
     *   Introduction to HTML5 APIs: Geolocation, Local Storage, Drag & Drop
 
-*   [**Module 11: Embedded Content & Iframes**](https://github.com/example/html-embedded/#readme)
+*   [**Module 11: Embedded Content & Iframes**](https://github.com/ahmadrizal1st/html-embedded/#readme)
     *   Iframe Element: `<iframe>` for Embedding External Content
     *   Embedding Maps, Videos, and Social Media Content
     *   Iframe Security: `sandbox` Attribute and Best Practices
     *   Object and Embed Elements: `<object>`, `<embed>`
     *   Embedding PDFs and Other Document Types
 
-*   [**Module 12: Advanced Layout & Structure**](https://github.com/example/html-layout/#readme)
+*   [**Module 12: Advanced Layout & Structure**](https://github.com/ahmadrizal1st/html-layout/#readme)
     *   Div and Span Elements: `<div>`, `<span>` for Grouping and Styling
     *   HTML5 Semantic Layout Patterns
     *   Microdata and Structured Data: Schema.org Vocabulary
@@ -137,7 +137,7 @@ flowchart TD
 
 ## Phase 4: Accessibility & Best Practices (Week 8)
 
-*   [**Module 13: Web Accessibility (A11y)**](https://github.com/example/html-accessibility/#readme)
+*   [**Module 13: Web Accessibility (A11y)**](https://github.com/ahmadrizal1st/html-accessibility/#readme)
     *   Understanding Web Content Accessibility Guidelines (WCAG)
     *   ARIA Roles and Attributes: Enhancing Accessibility
     *   Semantic HTML for Screen Readers
@@ -145,7 +145,7 @@ flowchart TD
     *   Color Contrast and Visual Accessibility
     *   Alt Text for Images and Descriptive Links
 
-*   [**Module 14: SEO & Performance Optimization**](https://github.com/example/html-seo/#readme)
+*   [**Module 14: SEO & Performance Optimization**](https://github.com/ahmadrizal1st/html-seo/#readme)
     *   Search Engine Optimization Basics
     *   Meta Tags for SEO: Description, Keywords, Viewport
     *   Semantic HTML for Better SEO
@@ -153,7 +153,7 @@ flowchart TD
     *   Lazy Loading for Images and Iframes
     *   Preload, Prefetch, and Preconnect Hints
 
-*   [**Module 15: HTML Best Practices & Standards**](https://github.com/example/html-best-practices/#readme)
+*   [**Module 15: HTML Best Practices & Standards**](https://github.com/ahmadrizal1st/html-best-practices/#readme)
     *   HTML5 Doctype and Character Encoding
     *   Proper Nesting and Indentation
     *   Cross-browser Compatibility Considerations
@@ -164,21 +164,21 @@ flowchart TD
 
 ## Phase 5: Integration & Next Steps (Week 9+)
 
-*   [**Module 16: CSS Integration & Styling**](https://github.com/example/html-css/#readme)
+*   [**Module 16: CSS Integration & Styling**](https://github.com/ahmadrizal1st/html-css/#readme)
     *   Linking CSS to HTML: `<link>` vs. `<style>` vs. Inline Styles
     *   CSS Selectors: Class, ID, Attribute, and Pseudo-classes
     *   Basic Layout Concepts: Display, Position, Flexbox, Grid
     *   Responsive Design with Media Queries
     *   CSS Frameworks Introduction: Bootstrap, Tailwind CSS
 
-*   [**Module 17: JavaScript Integration**](https://github.com/example/html-javascript/#readme)
+*   [**Module 17: JavaScript Integration**](https://github.com/ahmadrizal1st/html-javascript/#readme)
     *   Adding JavaScript to HTML: `<script>` Tag
     *   DOM Manipulation Basics
     *   Event Handling: Click, Submit, Change Events
     *   Form Validation with JavaScript
     *   Modern JavaScript Frameworks Overview
 
-*   [**Module 18: Capstone Project & Advanced Paths**](https://github.com/example/html-capstone/#readme)
+*   [**Module 18: Capstone Project & Advanced Paths**](https://github.com/ahmadrizal1st/html-capstone/#readme)
     *   **Build a Complete Multi-page Website**
     *   **Implement Responsive Design Principles**
     *   **Ensure Full Accessibility Compliance**
