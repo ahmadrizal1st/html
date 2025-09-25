@@ -187,14 +187,3 @@ flowchart TD
         *   **Full-Stack Development:** Backend Integration, Databases, Server-side Rendering
         *   **Web Accessibility Specialist:** Advanced A11y Techniques and Auditing
         *   **UI/UX Design:** Design Systems, User Research, Prototyping
-
----
-
-## Additional Resources
-
-*   **Reference Documentation:** MDN Web Docs, W3C Specifications
-*   **Validation Tools:** W3C Validator, Lighthouse, axe Accessibility Checker
-*   **Practice Platforms:** CodePen, JSFiddle, FreeCodeCamp
-*   **Community Resources:** Stack Overflow, GitHub, Web Development Blogs
-
-This curriculum provides a solid foundation in HTML while preparing you for advanced web development concepts. Remember to practice consistently and build real projects to reinforce your learning.
